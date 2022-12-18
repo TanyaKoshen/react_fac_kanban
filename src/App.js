@@ -35,7 +35,6 @@ const todo = [
     description: 'learn todo',
   },
 ]
-
 function App() {
 
   const [tasks, setTasks] = useState(todo);

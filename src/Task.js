@@ -76,5 +76,4 @@ const Task = (props) => {
     </div>
   );
 };
-
 export default Task;

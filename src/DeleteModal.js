@@ -31,5 +31,4 @@ const {modal, toggle, task, onDelete} = props;
     </div>
   );
 }
-
 export default DeleteModal;

@@ -22,7 +22,6 @@ function UpdateTaskModal(props) {
     updateTask(updTask)
     toggle()
   }
-
   return (
 
     <Modal isOpen={modal} toggle={toggle}>
